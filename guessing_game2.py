@@ -12,7 +12,7 @@ word = random.choice(word)
 
 print("Guess the characters")
 
-guesses = '' #using this when the user inputs a character later on
+guesses = ''
 turns = 5
 
 while turns > 0:
